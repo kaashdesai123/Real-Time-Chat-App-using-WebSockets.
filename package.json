@@ -1,0 +1,4 @@
+mkdir real-time-chat
+cd real-time-chat
+npm init -y
+npm install express ws
